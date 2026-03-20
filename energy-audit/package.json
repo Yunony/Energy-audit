@@ -1,0 +1,11 @@
+{
+  "name": "team-energy-audit",
+  "version": "1.0.0",
+  "description": "Shared team energy audit board",
+  "dependencies": {
+    "@vercel/kv": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
